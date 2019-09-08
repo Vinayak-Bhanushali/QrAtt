@@ -2,7 +2,7 @@
 Attendance Using Qr Codes
 ------------
 An attendance system which generates QR codes dynamically every 'n' seconds to keep the attendance taking secure. This system also has proxy detection module and like every automated system makes the proccess fast. This system is designed with Colleges in mind but it can also be used for Workplaces .The complete list for features can be found [here](#features)
-This system is made using React-native frontend and PHP MYSQL backend
+This system is made using Flutter frontend and PHP MYSQL backend
 
 App (Flutter)
 ------------
